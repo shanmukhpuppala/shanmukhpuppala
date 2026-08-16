@@ -1,16 +1,61 @@
-## Hi there 👋
+# Shanmukh Puppala
 
-<!--
-**shanmukhpuppala/shanmukhpuppala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Singer • Musician • Music Educator • Music Cover Artist
 
-Here are some ideas to get you started:
+Welcome to the official GitHub profile of **Shanmukh Puppala**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a **singer, musician, and music educator** with a background in **Carnatic music, vocal music, acoustic guitar, piano, music performance, and music education**.
+
+I create music covers, acoustic performances, educational content, and creative digital projects related to music.
+
+## 🎵 About Shanmukh Puppala
+
+* 🎤 Singer and performing musician
+* 🎼 Carnatic music artist
+* 🎸 Acoustic guitar performer
+* 🎹 Piano player
+* 📚 Music educator
+* 🎵 Music cover artist
+* 💻 Creator of music-related digital projects
+
+My musical interests include **Carnatic music, Telugu film music, acoustic covers, vocal music, guitar, piano, and music education**.
+
+## 🌐 Official Website
+
+**Shanmukh Puppala — Music**
+
+https://shanmukhpuppala.github.io/Music/
+
+## 📱 Connect With Me
+
+* **Instagram:** https://www.instagram.com/shanmukh_puppala/
+* **YouTube:** Shanmukh Puppala
+* **Website:** https://shanmukhpuppala.github.io/Music/
+
+## 🎶 Music
+
+I share:
+
+* Acoustic guitar covers
+* Vocal performances
+* Telugu music covers
+* Carnatic music
+* Music education
+* Singing and instrumental performances
+
+## 💻 Projects
+
+This GitHub profile contains my personal web projects, music-related projects, educational resources, and creative experiments.
+
+## ⭐ Explore My Work
+
+🌎 **Website:**
+https://shanmukhpuppala.github.io/Music/
+
+🎵 **Music & Performances:**
+Search for **Shanmukh Puppala** on YouTube and Instagram.
+
+---
+
+**Shanmukh Puppala**
+Singer • Musician • Music Educator
