@@ -30,7 +30,7 @@ https://shanmukhpuppala.github.io/Music/
 
 * **Instagram:** https://www.instagram.com/shanmukh_puppala/
 * **YouTube:** Shanmukh Puppala
-* **Website:** https://shanmukhpuppala.github.io/Music/
+* **Github:** https://github.com/shanmukhpuppala
 
 ## 🎶 Music
 
@@ -50,7 +50,7 @@ This GitHub profile contains my personal web projects, music-related projects, e
 ## ⭐ Explore My Work
 
 🌎 **Website:**
-https://shanmukhpuppala.github.io/Music/
+https://shanmukhpuppala.netlify.app/
 
 🎵 **Music & Performances:**
 Search for **Shanmukh Puppala** on YouTube and Instagram.
